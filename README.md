@@ -103,6 +103,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstgrowup&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="160" />
 </p>
 <br>
+<img alt="jstgrowup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jstgrowup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
 
