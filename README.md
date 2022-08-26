@@ -102,10 +102,9 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jstgrowup&show_icons=true&theme=dark" alt="jstgrowup" height="160" />
-<!--      <img align="center" src="https://github-readme-stats.vercel.app/api?username=jstgrowup&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" /> -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstgrowup&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="160" />
-</p>
+    <a href="http://www.github.com/jstgrowup"><img src="https://github-readme-stats.vercel.app/api?username=jstgrowup&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="subham's GitHub stats" /></a>
+    <a href="http://www.github.com/jstgrowup"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jstgrowup&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+   <a href="https://github.com/jstgrowup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstgrowup&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br>
 <img alt="jstgrowup's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jstgrowup&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
