@@ -11,12 +11,18 @@
 <!----------------------------------- About Section ------------------------------------>
 <img align="right" alt="coding" width="400" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif">
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
 
-<!-- <h3>
-    <i>- Currently working at Kyndryl as a Full Stack Developer</i>
-</h3> -->
+- ⚗️ Though I hold Bachelor's degree in bioengineering, I become a Full Stack (MERN) web developer.
+
+- 🌱 I’m actively looking for oppoturnities.
+
+- 🌍 I'm based in nagaon,Assam
+
+<!-- 💼 Visit my [Portfolio](https://gautamgohil.com/) for more details.-->
+
+- ✉️  You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 <br>
 
 
