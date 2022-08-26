@@ -20,7 +20,7 @@
 
 - 🌍 I'm based in nagaon,Assam
 
-<!-- 💼 Visit my [Portfolio](https://gautamgohil.com/) for more details.-->
+
 
 - ✉️  You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 <br>
