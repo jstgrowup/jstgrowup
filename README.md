@@ -3,7 +3,7 @@
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     I'm Subham Dey
-    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+   
 </h1>
 
 
@@ -102,7 +102,7 @@
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <a href="http://www.github.com/jstgrowup"><img src="https://github-readme-stats.vercel.app/api?username=jstgrowup&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="subham's GitHub stats" /></a>
+    <a href="http://www.github.com/jstgrowup"><img src="https://github-readme-stats.vercel.app/api?username=jstgrowup&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="subham's GitHub stats" height="100px"/></a>
     <br>
     <a href="http://www.github.com/jstgrowup"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jstgrowup&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
    <a href="https://github.com/jstgrowup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstgrowup&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
