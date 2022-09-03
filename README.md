@@ -66,20 +66,6 @@
 
 <!----------------------------------- Project Section ------------------------------------>
 
-<h2><i>My top projects</i></h2>
-
-
-<p align="left">
-    <a href="https://github.com/jstgrowup/Pharmeasy-Clone" target="blank">
-        <img style="height:70px;width:150px"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_qnn8_tNB9X_Wq5RANAfMrVJ1EvKjUgf2w&usqp=CAU" alt="Nike-Clone" />
-    </a>
-    <a href="https://github.com/jstgrowup/BeautyBebo-clone.git" target="blank">
-        <img style="height:70px;width:150px" src="https://i.ibb.co/9tmDLDR/download.png" alt="Beauty-bebo" />
-    </a>
-    </a>
-</p>
-<br>
-
 
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
