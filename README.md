@@ -20,7 +20,7 @@
 
 - You can checkout my work https://jstgrowup.github.io/subham.github.io/
 
-- 🌍 I'm live in Nagaon,Assam
+- 🌍 I live in Nagaon,Assam
 
 - ✉️  You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 <br>
