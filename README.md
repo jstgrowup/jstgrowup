@@ -14,7 +14,7 @@
     I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
 
-- ⚗️ Though I hold Bachelor's degree in bioengineering, I always wanted to become a Full Stack (MERN) web developer.
+- ⚗️ <p>Though I hold Bachelor's degree in bioengineering, I always wanted to become a Full Stack (MERN) web developer.</p>
 
 - 🌱 I’m actively looking for oppoturnities.
 
