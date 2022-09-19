@@ -14,21 +14,13 @@
     I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
 
-- ⚗️ <p>Though I hold Bachelor's degree in bioengineering, I always wanted to become a Full Stack (MERN) web developer.</p>
-
-- 🌱 I’m actively looking for oppoturnities.
-
-- You can checkout my work https://jstgrowup.github.io/subham.github.io/
+- ⚗️ Though I hold Bachelor's degree in bioengineering, I always wanted to become a Full Stack (MERN) web developer
 
 - 🌍 I live in Nagaon,Assam
 
-- ✉️  You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
+- ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 <br>
-
-
-
 <!----------------------------------- Profile View Section ------------------------------------>
-
 <p align="left">
     <a href="https://github.com/jstgrowup">
         <img src="https://komarev.com/ghpvc/?username=jstgrowup&label=Profile%20views&color=0e75b6&style=flat" alt="jstgrowup" />
@@ -38,11 +30,7 @@
     </a>
 </p>
 <br>
-
-
-
 <!----------------------------------- Tech Stack Section ------------------------------------>
-
 <h2><i>Tech Stack</i></h2>
 
 <p>
@@ -61,15 +49,8 @@
   
 </p>
 <br>
-
-
-
 <!----------------------------------- Project Section ------------------------------------>
-
-
-
 <!----------------------------------- Social Media Links Section ------------------------------------>
-
 ## 📩 Contact Me 👇
 <p align="left">
     <a href="https://www.linkedin.com/in/subham-dey4021/">
@@ -83,9 +64,6 @@
     </a>
 </p>
 <br>
-
-
-
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
