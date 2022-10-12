@@ -51,7 +51,7 @@
 <br>
 <!----------------------------------- Project Section ------------------------------------>
 <!----------------------------------- Social Media Links Section ------------------------------------>
-📩 Contact Me 👇
+<h2>📩 Contact Me 👇</h2>
 <p align="left">
     <a href="https://www.linkedin.com/in/subham-dey4021/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/subham-dey4021/" />
