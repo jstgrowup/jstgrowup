@@ -31,7 +31,7 @@
 </p>
 <br>
 <!----------------------------------- Tech Stack Section ------------------------------------>
-<h2><i>Tech Stack</i></h2>
+<h2>Skills</h2>
 
 <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
