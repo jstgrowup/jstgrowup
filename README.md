@@ -15,10 +15,9 @@
     I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
 
-- ⚗️ Though I hold Bachelor's degree in bioengineering, I always wanted to build websites.
-
-- 🌍 I live in Nagaon,Assam
-
+- ⚗️ Currently i am leanring Backend which includes authorization and websockets.
+- 🌍 I live in Guwahati,Assam
+- ✨In my free time i create content on youtube, i enjoy teaching , riding bicycle and watching anime   
 - ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
