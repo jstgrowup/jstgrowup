@@ -9,7 +9,8 @@
 
 
 <!----------------------------------- About Section ------------------------------------>
-<img align="right" alt="coding" width="400" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif">
+
+<!--<img align="right" alt="coding" width="400" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif">-->
 <h3>
     I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
