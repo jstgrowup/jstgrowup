@@ -15,7 +15,7 @@
     I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
 
-- ⚗️ Currently i am leanring React Native , Next.js and Backend which includes authorization and websockets.
+- ⚗️ Currently i am leanring Next.js and Backend development which includes authentication,authorization and websockets.
 - 🌍 I live in Guwahati,Assam
 - ✨In my free time i create content on youtube, i enjoy teaching , riding bicycle and watching anime   
 - ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
