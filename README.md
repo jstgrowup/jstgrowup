@@ -16,7 +16,7 @@
 </h3>
 
 - ⚗️ Currently i am leanring Next.js and Backend development which includes authentication,authorization and websockets.
-- 🌍 I live in Guwahati,Assam
+- 🌍 I am from Guwahati live in Banglore,Karnataka
 - ✨In my free time i create content on youtube, i enjoy teaching , riding bicycle and watching anime   
 - ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 - My githubunwrapped 2022 [Unwrapped](https://youtu.be/WDMZ3hzPaok) consider subscribing to my channel as well😉
