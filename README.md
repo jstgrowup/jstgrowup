@@ -15,12 +15,12 @@
     I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.
 </h3>
 
-- ⚗️ Currently i am leanring Next.js and Backend development which includes authentication,authorization and websockets.
-- 🌍 I am from Guwahati live in Banglore,Karnataka
-- ✨In my free time i create content on youtube, i enjoy teaching , riding bicycle and watching anime   
+- ⚗️ Currently I am learning Next.js and Backend development which includes authentication, authorization and WebSockets.
+- 🌍 I am from Guwahati and live in Bangalore, Karnataka
+- ✨In my free time I create content on YouTube, I enjoy teaching, riding a bicycle and watching anime   
 - ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 - My githubunwrapped 2022 [Unwrapped](https://youtu.be/WDMZ3hzPaok) consider subscribing to my channel as well😉
-- You can have a look on my work as well [click here](https://jstgrowup.github.io/subham.github.io/) 
+- You can have a look at my work as well [click here](https://jstgrowup.github.io/subham.github.io/) 
 <br>
 <!----------------------------------- Profile View Section ------------------------------------>
 <p align="left">
