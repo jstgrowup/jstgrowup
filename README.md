@@ -12,11 +12,10 @@
 
 <!--<img align="right" alt="coding" width="400" src="https://www.proofhub.com/wp-content/uploads/2020/08/Web-Developer.gif">-->
 <h3>
-    I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code with a year-long of professional experience in NodeJs Backend
+    I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code with 2 years of professional experience in NodeJs Backend and various Frontend Technologies
 </h3>
 
-- Currently, I am working as a NodeJs Backend Engineer.
-- 🌍 I am from Guwahati and live in Bangalore, Karnataka.
+- Currently, I am working as a Full Stack Engineer.
 - ✨In my free time I create content on YouTube, I enjoy teaching, riding a bicycle and watching anime   
 - ✉️ You can contact me at [deysubham999@gmail.com](mailto:deysubham999@gmail.com)
 - My githubunwrapped 2022 [Unwrapped](https://youtu.be/WDMZ3hzPaok) consider subscribing to my channel as well😉
